@@ -33,7 +33,8 @@ This project is an interactive Power BI dashboard that analyzes email marketing 
 ## Screenshots
 
 ### Dashboard Overview (Page 1)
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/cb0eb824-8a78-4240-8987-5fa841cfd61b" />
+<img width="1026" height="616" alt="WhatsApp Image 2026-04-18 at 7 37 08 PM" src="https://github.com/user-attachments/assets/e7a88c17-6729-4728-9dbb-ed9ff5b85b10" />
+
 
 
 ### Detailed Analysis (Page 2)
